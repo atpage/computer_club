@@ -56,4 +56,8 @@ if __name__ == '__main__':
                                  allow_repeats=args.reuse_letters)
     print(matching_words)
 
+#################################### TODO: #####################################
+
+# limit results based on number of answer slots, and sort more common words first
+
 ################################################################################
