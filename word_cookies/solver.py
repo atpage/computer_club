@@ -60,5 +60,6 @@ if __name__ == '__main__':
 
 # - limit results based on number of answer slots, and sort more common words first
 # - OCR of screenshot
+# - set up email address that automatically replies with solutions
 
 ################################################################################
