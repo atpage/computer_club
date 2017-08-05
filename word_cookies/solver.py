@@ -58,6 +58,7 @@ if __name__ == '__main__':
 
 #################################### TODO: #####################################
 
-# limit results based on number of answer slots, and sort more common words first
+# - limit results based on number of answer slots, and sort more common words first
+# - OCR of screenshot
 
 ################################################################################
