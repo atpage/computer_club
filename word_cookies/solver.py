@@ -20,7 +20,7 @@ def word_works(letters, word, allow_repeats=False):
     """Return True if word can be spelled using only letters.  letters is a single
     string.  allow_repeats allows each letter to be used many times.
     """
-    letters_remaining = letters
+    letters_remaining = letters.lower()
     for letter in word:
         if letter in letters_remaining:
             if not allow_repeats:
