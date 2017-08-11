@@ -59,6 +59,8 @@ if __name__ == '__main__':
 #################################### TODO: #####################################
 
 # - limit results based on number of answer slots, and sort more common words first
+# - update remaining solutions as they are used, and by remaining spots on board (alphabetical)
+# - discuss / implement faster solutions, e.g. using indexed dictionary
 # - OCR of screenshot
 # - set up email address that automatically replies with solutions
 
