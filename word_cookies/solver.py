@@ -59,6 +59,10 @@ if __name__ == '__main__':
 #################################### TODO: #####################################
 
 # - limit results based on number of answer slots, and sort more common words first
+# - update remaining solutions as they are used, and by remaining spots on board (alphabetical)
+# - discuss / implement faster solutions, e.g. using indexed dictionary, or split dict into 
+#   individual letters and only search through starting letters that are on the board.  that
+#   would also allow discussion of parallelism, e.g. one computer per starting letter.
 # - OCR of screenshot
 # - set up email address that automatically replies with solutions
 
